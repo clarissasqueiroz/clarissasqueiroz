@@ -6,11 +6,12 @@
 - 📫 Você pode me contatar através do [LinkedIn](https://br.linkedin.com/in/clarissa-s-queiroz) ou via [Twitter](https://twitter.com/camomilacommel)
 - ⚡ Curiosidade: Gosto de explorar novas tecnologias e experimentar diferentes linguagens de programação.
                    Sou jogadora de LOL e StardewValley mas atualmente passo meu tempo livre jogando DIABLO4
+- 🚀 Além disso, sou formada em Psicologia, concluí o curso 1000DEVS em JavaScript pela Mesttra e possuo certificação em Outsystems pela BePro.
 
 Linguagens e Tecnologias:
-- **Linguagens**: Java, Python, SQL
-- **Experiência**: Pegasystems, Outsystems
-- **Aprendendo Atualmente**: Power BI, SQL
+- **Linguagens**: JavaScript, Python, SQL, Outsystems
+- **Experiência**: Pegasystems
+- **Aprendendo Atualmente**: Power BI, SQL e Outsystems
 <!---
 clarissasqueiroz/clarissasqueiroz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
